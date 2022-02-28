@@ -1,4 +1,4 @@
-FROM ghcr.io/anshusharma75/anshus:latest
+FROM reaitten/tgtlg:alpine-base
 
 COPY . .
 
