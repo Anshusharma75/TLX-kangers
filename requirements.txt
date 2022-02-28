@@ -1,5 +1,5 @@
 aiohttp
-aria2p==0.9.1
+https://github.com/Anshusharma75/jhamak/archive/refs/heads/master.zip
 beautifulsoup4
 bs4
 cfscrape
@@ -18,7 +18,7 @@ pyprog
 python-telegram-bot
 pybase64
 requests
-speedtest-cli
+https://github.com/Anshusharma75/jati/archive/refs/heads/master.zip
 tgcrypto
 urllib3
 https://github.com/Anshusharma75/prabhu/archive/refs/heads/master.zip
