@@ -1,4 +1,4 @@
-FROM reaitten/tgtlg:alpine-base
+FROM alpine:latest
 
 COPY . .
 
