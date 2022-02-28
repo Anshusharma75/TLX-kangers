@@ -1,4 +1,4 @@
-FROM ghcr.io/Anshusharma75/anshus:latest
+FROM ghcr.io/anshusharma75/anshus:latest
 
 COPY . .
 
